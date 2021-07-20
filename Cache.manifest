@@ -8,6 +8,7 @@ ar100.js
 ar127.js
 ar132.js
 backup.js
+Cache.manifest
 disableupdates.js
 dumper.js
 enableupdates.js
@@ -27,9 +28,9 @@ linux1gb.js
 linux3gb.js
 loader.js
 Orbis-Toolbox-702.js
-Oysters-1.13.js
-Oysters-1.19.js
-Oysters-1.24.js
+oyster113.js
+oyster114.js
+oyster119.js
 payload.js
 preloader.js
 ps4.jpg
