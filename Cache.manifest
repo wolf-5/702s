@@ -1,5 +1,4 @@
 CACHE MANIFEST 
-# random: 80859e6cd66a81929415d6e4b15cc97 
 
 CACHE: 
 702.js
@@ -8,7 +7,6 @@ ar100.js
 ar127.js
 ar132.js
 backup.js
-Cache.manifest
 disableupdates.js
 dumper.js
 enableupdates.js
@@ -31,10 +29,14 @@ Orbis-Toolbox-702.js
 oyster113.js
 oyster114.js
 oyster119.js
+Oysters113.js
+Oysters119.js
+Oysters124.js
 payload.js
 preloader.js
 ps4.jpg
 ps4.js
+restore.js
 todex.js
 utils.js
 webrte.js
