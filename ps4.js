@@ -159,13 +159,13 @@ function toggle_payload(pld){
 		preloadScripts(['preloader.js', 'lam132.js', 'loader.js']);
 	}else if(pld == "rd2113"){
 		document.getElementById("progress").innerHTML="Loading Payload.. Please wait..";
-		preloadScripts(['preloader.js', 'Oysters113.js', 'loader.js']);
+		preloadScripts(['preloader.js', 'oyster113.js', 'loader.js']);
 	}else if(pld == "rd2114"){
 		document.getElementById("progress").innerHTML="Loading Payload.. Please wait..";
-		preloadScripts(['preloader.js', 'Oysters119.js', 'loader.js']);
+		preloadScripts(['preloader.js', 'oyster119.js', 'loader.js']);
 	}else if(pld == "rd2124"){
 		document.getElementById("progress").innerHTML="Loading Payload.. Please wait..";
-		preloadScripts(['preloader.js', 'Oysters124.js', 'loader.js']);
+		preloadScripts(['preloader.js', 'oyster124.js', 'loader.js']);
 	}
 	if(window.postPayload)
 		window.postPayload();
