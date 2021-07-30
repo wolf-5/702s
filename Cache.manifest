@@ -10,6 +10,7 @@ backup.js
 disableupdates.js
 dumper.js
 enableupdates.js
+fan.js
 fix.js
 frontend.js
 ftp.js
@@ -25,7 +26,6 @@ lam132.js
 linux1gb.js
 linux3gb.js
 loader.js
-Orbis-Toolbox-702.js
 oyster113.js
 oyster119.js
 oyster124.js
@@ -35,8 +35,9 @@ ps4.jpg
 ps4.js
 restore.js
 todex.js
+Toolbox702.js
 utils.js
-webrte.js
+Webrte.js
 
 NETWORK: 
 * 
