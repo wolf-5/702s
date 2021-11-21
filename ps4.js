@@ -115,6 +115,9 @@ function toggle_payload(pld){
 	}else if(pld == "web"){
 		document.getElementById("progress").innerHTML="Loading Web-Activator.. Please wait..";
 		preloadScripts(['preloader.js', 'payload.js', 'loader.js', 'frontend.js']);
+	}else if(pld == "ps4debug"){
+		document.getElementById("progress").innerHTML="Loading ps4debug.. Please wait..";
+		preloadScripts(['preloader.js', 'ps4debug.js', 'loader.js']);
 	}else if(pld == "todex"){
 		document.getElementById("progress").innerHTML="Loading Todex.. Please wait..";
 		preloadScripts(['preloader.js', 'todex.js', 'loader.js']);
