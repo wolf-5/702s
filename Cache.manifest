@@ -1,6 +1,6 @@
 CACHE MANIFEST 
+# v2.5.5 Self-Host 
 
-CACHE: 
 702.js
 app2usb.js
 ar100.js
@@ -13,10 +13,7 @@ enableupdates.js
 fan.js
 frontend.js
 ftp.js
-goldhen.js
-goldhen1.js
 goldhen2.js
-hen213b.js
 historyblocker.js
 index.html
 int64.js
@@ -39,6 +36,3 @@ todex.js
 Toolbox702.js
 utils.js
 webrte.js
-
-NETWORK: 
-* 

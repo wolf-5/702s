@@ -85,18 +85,9 @@ function setupRW() {
 		window.postExploit();
 }
 function toggle_payload(pld){
-	if(pld == "goldhen"){
-		document.getElementById("progress").innerHTML="Loading Gold Hen 1.1.. Please wait..";
-		preloadScripts(['jb.js', 'preloader.js', 'goldhen.js', 'loader.js']);
-	}else if(pld == "goldhen1"){
-		document.getElementById("progress").innerHTML="Loading Gold Hen 1.0.. Please wait..";
-		preloadScripts(['jb.js', 'preloader.js', 'goldhen1.js', 'loader.js']);	
-	}else if(pld == "goldhen2"){
-		document.getElementById("progress").innerHTML="Loading Gold Hen 1.0.. Please wait..";
-		preloadScripts(['jb.js', 'preloader.js', 'goldhen2.js', 'loader.js']);		
-	}else if(pld == "hen213b"){
-		document.getElementById("progress").innerHTML="Loading Hen 213b.. Please wait..";
-		preloadScripts(['jb.js', 'preloader.js', 'hen213b.js', 'loader.js']);
+	if(pld == "goldhen2"){
+		document.getElementById("progress").innerHTML="Loading Gold Hen 2.0.. Please wait..";
+		preloadScripts(['jb.js', 'preloader.js', 'goldhen2.js', 'loader.js']);
 	}else if(pld == "toolbox"){
 		document.getElementById("progress").innerHTML="Loading Toolbox.. Please wait..";
 		preloadScripts(['preloader.js', 'Toolbox702.js', 'loader.js']);
